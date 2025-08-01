@@ -45,9 +45,6 @@ Durante o módulo "Avançando no HTML e CSS" da Rocketseat, foram abordados:
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
-## 📷 Preview
-(Coloque aqui uma imagem ou GIF mostrando o site funcionando)
-
 ## 📝 Créditos
 Projeto feito como desafio do curso **Discover - Rocketseat**.  
 Código por [Seu Nome].  
