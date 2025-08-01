@@ -3,6 +3,8 @@
 
 # 📸 Travelgram — Rocketseat Discover
 
+<a href="https://emersonromana.github.io/travelgram/"> 🔗 Acesse a página Travelgram aqui! </a> 
+
 Projeto desenvolvido no módulo **"Avançando no HTML e CSS"** do curso Discover da Rocketseat. O objetivo é criar um layout de perfil de viagens inspirado em redes sociais, praticando conceitos avançados de HTML e CSS, com foco em organização, responsividade e boas práticas de código.
 
 ## 🗂 Sobre o Código
@@ -45,8 +47,6 @@ Durante o módulo "Avançando no HTML e CSS" da Rocketseat, foram abordados:
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
-## 📷 Preview
-(Coloque aqui uma imagem ou GIF mostrando o site funcionando)
 
 ## 📝 Créditos
 Projeto feito como desafio do curso **Discover - Rocketseat**.  
