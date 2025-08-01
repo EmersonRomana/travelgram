@@ -38,7 +38,7 @@ Durante o módulo "Avançando no HTML e CSS" da Rocketseat, foram abordados:
 
 ## 📝 Créditos
 Projeto feito como desafio do curso **Discover - Rocketseat**.  
-Código por [Seu Nome].  
+Código por Emerson (RELVCODE).  
 Layout original do módulo "Travelgram" Rocketseat.
 
 
