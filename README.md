@@ -36,21 +36,6 @@ Durante o módulo "Avançando no HTML e CSS" da Rocketseat, foram abordados:
 - Boas práticas de organização de arquivos e pastas no projeto.
 - Como transformar um design (Figma) em código com fidelidade visual.
 
-## 🚀 Como rodar o projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/travelgram.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd travelgram
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 2299a57e85071cc4a0e38656aa952028316a8a0c
 ## 📝 Créditos
 Projeto feito como desafio do curso **Discover - Rocketseat**.  
 Código por [Seu Nome].  
