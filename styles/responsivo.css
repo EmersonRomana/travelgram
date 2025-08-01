@@ -1,0 +1,78 @@
+@media (max-width: 1024px) {
+    .container,
+    .container-bio {
+        padding-inline: 16px;
+        flex-direction: column;
+        align-items: center;
+        text-align: left;
+    }
+
+    #profile {
+        flex-direction: column;
+        align-items: center;
+        text-align: left;
+        width: 100%;
+    }
+
+    #profile img {
+        width: 120px;
+        height: 120px;
+    }
+
+    #profile > div {
+        width: 100%;
+    }
+
+    #profile h1 {
+        text-align: center;
+    }
+
+    #profile p {
+        text-align: left;
+    }
+
+    #info {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        gap: 12px;
+        margin-top: 16px;
+    }
+
+    #info li {
+        justify-content: flex-start;
+    }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        text-align: center;
+    }
+
+    footer span:nth-child(1) {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    #primary-menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 16px;
+    }
+
+    #primary-menu li:last-child img {
+        display: none;
+    }
+
+    main img {
+        width: 100%;
+        height: auto;
+    }
+}
