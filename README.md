@@ -47,7 +47,10 @@ Durante o módulo "Avançando no HTML e CSS" da Rocketseat, foram abordados:
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2299a57e85071cc4a0e38656aa952028316a8a0c
 ## 📝 Créditos
 Projeto feito como desafio do curso **Discover - Rocketseat**.  
 Código por [Seu Nome].  
